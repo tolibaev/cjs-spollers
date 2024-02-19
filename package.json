@@ -1,0 +1,9 @@
+{
+  "name": "cjs-spollers",
+  "version": "1.0.0",
+  "main": "spollers.js",
+  "module": "spollers.js",
+  "type": "module",
+  "author": "Rinat",
+  "license": "ISC"
+}
